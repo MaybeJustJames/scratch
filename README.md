@@ -2,12 +2,12 @@
 
 Some text
 
-> ### {% icon question %} Questions
+> ### Questions
 >
 > Question: A question
 >
 > > <details markdown="1">
-> > <summary>{% icon solution %} Solution
+> > <summary>Solution
 > > </summary>
 > >
 > > ### A Header
