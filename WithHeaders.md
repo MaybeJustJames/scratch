@@ -1,5 +1,5 @@
 Some text
 
-### A sub-sub-heading
+# A heading
 
 Some more __text__
