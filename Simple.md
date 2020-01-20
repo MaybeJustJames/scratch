@@ -14,3 +14,7 @@ hello();
 ```
 __hello world__
 </details>
+
+<div>
+*Some* _markdown_
+</div>
