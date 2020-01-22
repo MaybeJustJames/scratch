@@ -9,9 +9,11 @@ Some more text
 </summary>
 
 Some details
+
 ```
 hello();
 ```
+
 __hello world__
 </details>
 
