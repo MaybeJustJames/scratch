@@ -7,16 +7,13 @@ Some more text
 <details>
 <summary>Test
 </summary>
-
 Some details
 
-```
-hello();
-```
+`hello();`
 
 __hello world__
 </details>
 
 <div>
-*Some* _markdown_
+**Some** _markdown_
 </div>
