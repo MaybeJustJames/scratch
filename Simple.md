@@ -17,3 +17,5 @@ __hello world__
 <div>
 **Some** _markdown_
 </div>
+
+<span> *Really* __inline__ `stuff`</span>
